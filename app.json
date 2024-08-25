@@ -1,5 +1,12 @@
 {
   "expo": {
+    "name": "GK",
+    "slug": "GK",
+    "icon": "assets/images/icon.png",
+    "splash": {"image": "assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
     "scheme": "acme",
     "userInterfaceStyle": "automatic",
     "orientation": "default",
@@ -14,8 +21,7 @@
           "origin": "https://n"
         }
       ]
-    ],
-    "name": "GK",
-    "slug": "GK"
+    ]
+
   }
 }
